@@ -1,0 +1,175 @@
+.bdy {
+    background-image: url("../images/websiteBackgroundImage.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-between;
+    min-height: 100vh;
+    width: 100%;
+}
+
+.navigationBar {
+    width:100%;
+    min-height: 65px;
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: black;
+    opacity: 0.8;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navigationBarLeftContainer {
+    width:50%;
+    min-height:65px;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    margin:0px;
+    padding: 0px;
+}
+
+.websiteIconDesign {
+    width:60px;
+    height:60px;
+    margin-left:10px;
+    padding:0px;
+    border-radius: 20px;
+    border-style: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.websiteNameDesign {
+    color:white;
+    padding-left: 20px;
+    font-family:'Segoe UI';
+    font-size: 30px;
+    font-weight:900;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.navigationBarRightContainer {
+    width:50%;
+    min-height:65px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navigationBarRightContainerButtonsDesign {
+    width:25%;
+    height:65px;
+    color:white;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    font-family: 'Segoe UI';
+    font-weight:800;
+    font-size: 20px;
+    margin:0px;
+    padding: 0px;
+    border-radius: 20px;
+    border-style:solid;
+    border-color: black;
+}
+
+.navigationBarRightContainerButtonsDesign:hover {
+    background-color: chartreuse;
+    color: black;
+    transition: 0.3s;
+}
+
+.box {
+    background-image: url("../images/mainContainerLandingPageBackgroundImage.jpg");
+    background-size: cover;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height:50%;
+    width: 41%;
+}
+
+.appNameDesign {
+    color:black;
+    height:30%;
+    width:100%;
+    font-family:'Segoe UI';
+    display:flex;
+    flex-direction: row;
+    align-items: start;
+    font-size: 30px;
+    font-weight:900;
+    text-align: left;
+    margin-top:10px;
+    margin-bottom: 0px;
+    margin-left: 16px;
+}
+
+.appDescriptionDesign {
+   padding-left: 10px;
+   padding-bottom: 5px;
+   font-family: 'Segoe UI';
+   font-weight: 400;
+   font-size: larger;
+   margin:0px;
+   display: flex;
+   flex-direction: column;
+   align-items: start;
+   color: black;
+}
+
+.websiteImageDesign {
+    width:100%;
+    height:50%;
+    margin:0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-style: hidden;
+}
+
+.nextButtonDesign {
+    height:40px;
+    width:150px;
+    color:white;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: green;
+    border-radius: 10px;
+    border-color: black;
+    border-style: ridge;
+    margin-bottom: 20px;
+}
+
+.nextButtonDesign:hover {
+    background-color: chartreuse;
+    color: black;
+}
+
+.footerDescriptionDesign {
+    font-size: 19px;
+    font-weight:600;
+    color: black;
+    font-family: 'Segoe UI';
+}
