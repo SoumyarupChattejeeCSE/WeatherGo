@@ -2,7 +2,7 @@
 A web-based application that helps to provide weather information of different locations.This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Features
-1. Precision, Accurate and Real-Time Weather Updates.
+1. Precise, Accurate and Real-Time Weather Updates.
 2. User-Friendly Interface and Key Weather Forecast Indicators.
 3. Global Coverage Weather Updates and Severe Weather Alerts.
 
