@@ -1,4 +1,5 @@
 # WeatherGo
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&link=https://github.com/namanbohra)](https://github.com/namanbohra)
 A web-based application that helps to provide weather information of different locations.This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Features
