@@ -1,5 +1,5 @@
 # WeatherGo
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&link=https://github.com/namanbohra)](https://github.com/namanbohra) [![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white&link=https://github.com/namanbohra)](https://github.com/namanbohra)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&link=https://github.com/namanbohra)](https://github.com/namanbohra) [![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white&link=https://github.com/namanbohra)](https://github.com/namanbohra) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://github.com/namanbohra)](https://github.com/namanbohra) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/namanbohra)](https://github.com/namanbohra) <a href="https://github.com/arihant-jain-09"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="css3" /></a>
 
 ## Description
 A web-based application that helps to provide weather information of different locations.This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
